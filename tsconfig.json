@@ -1,0 +1,7 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./packages/xrpl-nft" },
+    { "path": "./packages/cli" }
+  ]
+}
